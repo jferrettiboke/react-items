@@ -1,9 +1,9 @@
 {
   "name": "react-items",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description":
     "Primitives to build simple, flexible, highly customizable and powerful React components such as tabs, pagination, steps, slider, carousel, accordion menu, etc.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
     "test": "echo \"Error: no test specified\" && exit 1",
