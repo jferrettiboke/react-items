@@ -1,0 +1,50 @@
+{
+  "name": "react-items",
+  "version": "0.0.1",
+  "description":
+    "Primitives to build simple, flexible, highly customizable and powerful React components such as tabs, pagination, steps, slider, carousel, accordion menu, etc.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jferrettiboke/react-items.git"
+  },
+  "keywords": [
+    "react-items",
+    "react",
+    "items",
+    "tabs",
+    "paginator",
+    "pagination",
+    "steps",
+    "slider",
+    "carousel",
+    "accordion",
+    "accordion-menu"
+  ],
+  "author": "Jesús Ferretti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jferrettiboke/react-items/issues"
+  },
+  "homepage": "https://github.com/jferrettiboke/react-items#readme",
+  "dependencies": {
+    "paginator": "^1.0.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.2.16",
+    "@storybook/addon-links": "^3.2.16",
+    "@storybook/react": "^3.2.16",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
