@@ -1,11 +1,7 @@
 # 🏇🏽 react-items
 
-[![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-image]][downloads-url]
-[![License][license-image]][license-url]
-
-[![size][size-badge]][unpkg-dist] [![gzip size][gzip-badge]][unpkg-dist]
+[![npm](https://img.shields.io/npm/v/react-items.svg)]()
+[![license](https://img.shields.io/github/license/jferrettiboke/react-items.svg)]()
 
 ## Description
 
