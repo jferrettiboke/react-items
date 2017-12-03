@@ -16,7 +16,7 @@ etc.
 ## Live Playground
 
 For examples in action, go to
-[http://jferrettiboke.github.io/react-items](http://jferrettiboke.github.io/react-items).
+[https://jferrettiboke.github.io/react-items/](https://jferrettiboke.github.io/react-items/).
 
 Or...
 
